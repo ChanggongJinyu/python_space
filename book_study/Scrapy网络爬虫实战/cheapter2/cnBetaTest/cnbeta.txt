@@ -1,0 +1,20 @@
+{'url': 'https://www.cnbeta.com/articles/tech/812819.htm', 'title': 'iOS 12.2 Beta 1有哪些显著的功能变化？', 'release_date': '2019年01月26日 18:40'}
+{'url': 'https://www.cnbeta.com/articles/tech/1248273.htm', 'title': 'RTX 3080显卡在澳大利亚一夜之间降价35%', 'release_date': '2022年03月17日 23:10'}
+{'url': 'https://www.cnbeta.com/articles/tech/1242171.htm', 'title': '俄媒：俄准备启用本国互联网“Runet”', 'release_date': '2022年03月02日 08:14'}
+{'url': 'http://www.cnbeta.com/articles/tech/1245491.htm', 'title': '杭州顺丰快递受到新冠病毒污染风险 不少市民收到短信', 'release_date': '2022年03月10日 21:11'}
+{'url': 'http://www.cnbeta.com/articles/tech/1249573.htm', 'title': 'iPhone 14 Pro详细尺寸图曝光：比前代更厚、感叹号挖孔面积巨大', 'release_date': '2022年03月22日 09:47'}
+{'url': 'https://www.cnbeta.com/articles/tech/1248795.htm', 'title': '日本7.4级强震后：福岛核电站85个核污染水储水罐发生位移、多处漏水', 'release_date': '2022年03月19日 11:41'}
+{'url': 'http://www.cnbeta.com/articles/tech/1249309.htm', 'title': 'iPhone 14 Pro最新渲染图曝光：感叹号挖孔太酷炫', 'release_date': '2022年03月21日 15:17'}
+{'url': 'http://www.cnbeta.com/articles/tech/1249611.htm', 'title': '[视频]iPhone SE 3上手评测：吸引更多潜在用户加入苹果阵营', 'release_date': '2022年03月22日 10:44'}
+{'url': 'https://www.cnbeta.com/articles/tech/1246617.htm', 'title': '绕开先进制程封锁 中国“小芯片”标准草案即将公示', 'release_date': '2022年03月14日 13:57'}
+{'url': 'http://www.cnbeta.com/articles/tech/1244581.htm', 'title': '[图文直播]苹果2022“高能传送”春季特别活动', 'release_date': '2022年03月08日 20:00'}
+{'url': 'https://www.cnbeta.com/articles/tech/1248955.htm', 'title': '我国新型储能产业进入快车道 新技术不断涌现', 'release_date': '2022年03月20日 10:40'}
+{'url': 'https://www.cnbeta.com/articles/tech/1249213.htm', 'title': '俄罗斯平台重售Intel和AMD处理器：部分型号价格腰斩', 'release_date': '2022年03月21日 10:39'}
+{'url': 'https://www.cnbeta.com/articles/tech/1248623.htm', 'title': '因土坑酸菜曝光成网红品牌：白象三分之一员工是残疾人', 'release_date': '2022年03月18日 23:35'}
+{'url': 'https://www.cnbeta.com/articles/tech/1249929.htm', 'title': '韩媒称明年iPhone 15 Pro系列将配屏下摄像头 由三星打造', 'release_date': '2022年03月23日 07:04'}
+{'url': 'https://www.cnbeta.com/articles/tech/1244581.htm', 'title': '[图文直播]苹果2022“高能传送”春季特别活动', 'release_date': '2022年03月08日 20:00'}
+{'url': 'https://www.cnbeta.com/articles/tech/1249199.htm', 'title': '通用电气公司生产世界上最大的可回收风力涡轮机叶片', 'release_date': '2022年03月21日 10:05'}
+{'url': 'http://www.cnbeta.com/articles/tech/1238653.htm', 'title': '年轻人喜欢的剧本杀开始变味了，这剧情让色情电影自愧不如', 'release_date': '2022年02月19日 21:33'}
+{'url': 'http://www.cnbeta.com/articles/tech/1248795.htm', 'title': '日本7.4级强震后：福岛核电站85个核污染水储水罐发生位移、多处漏水', 'release_date': '2022年03月19日 11:41'}
+{'url': 'http://www.cnbeta.com/articles/tech/1249119.htm', 'title': '体验太差 风靡一时的纸吸管消失？你喝奶茶的吸管又变了', 'release_date': '2022年03月21日 07:40'}
+{'url': 'http://www.cnbeta.com/articles/tech/1242171.htm', 'title': '俄媒：俄准备启用本国互联网“Runet”', 'release_date': '2022年03月02日 08:14'}
