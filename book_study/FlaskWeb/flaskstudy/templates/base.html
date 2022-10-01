@@ -1,0 +1,34 @@
+{% extends "bootstrap/base.html" %}
+<!--jinja2中，extends：从flask-bootstrap中导入bootstrap/base.html，从而实现模板继承-->
+
+<!--以下定义了3个区块，title navbar content，都是基模板提供的，可在衍生模板中重新定义-->
+<!--navbar和content分别表示页面中的导航栏和主体内容-->
+{% block title %} Flasky {% endblock %}
+
+{% block navbar %}
+<div class="navbar navbar-inverse" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">Flasky</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li><a href="/">Home</a> </li>
+            </ul>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block content %}
+<div class="container">
+    {% block page_content %} {% endblock %}
+</div>
+{% endblock %}
+<!--这里的div容器定义了一个新的区块page_content，区块中的内容由衍生模板定义-->
